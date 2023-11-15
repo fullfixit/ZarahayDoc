@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Roboto:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+:root {
+    --first-color: #ffffffed;
+    --second-color : #006633;
+    
+    --title-size: 38px;
+    --sub-size: 24px;
+    --par-size: 18px;
+}
+
+* {
+    margin: 0;
+}

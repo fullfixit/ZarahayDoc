@@ -1,0 +1,26 @@
+.container {
+    height: 900px;
+    background-color: #F6F6F6;
+}
+
+.body {
+    display: flex;
+  }
+  
+  .column {
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .first-column {
+    flex: 25%;
+  }
+  
+  .second-column {
+    flex: 50%;
+  }
+  
+  .third-column {
+    flex: 25%;
+  }
+  
